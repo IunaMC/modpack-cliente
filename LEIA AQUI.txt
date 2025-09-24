@@ -6,7 +6,7 @@ Em relação às construções e itens perdidos, procure a moderação para disc
 
 Para que o modpack funcione, demos a opção de itens Obrigatórios e Opcionais. Como o próprio nome já diz, "Mods Obrigatórios" contém tudo o que você precisa para jogar conosco no I.U.N.A., enquanto o "Mods Opcionais" possui modificações que melhoram a sua experiência de jogo.
 
-LEMBRE-SE: Para que tudo fique devidamente instalado, você precisa jogar o conteúdo das pastas de mods e "Dependencies" dentro do diretório de Mods da versão do seu Minecraft, sem pastas, só joga tudo dentro (lá ele).
+LEMBRE-SE: Para que tudo fique devidamente instalado, você precisa jogar o conteúdo das pastas de mods e "Dependencias" dentro do diretório de Mods da versão do seu Minecraft, sem pastas, só joga tudo dentro (lá ele).
 
 Observação importante: Ao iniciar pela primeira vez, não esqueça de verificar os atalhos de teclado para evitar conflito entre os mods: Ironspells, Journey Map e Simple Voice Chat, que utilizam tanto as teclas B, quanto V. Aí, você só configura do jeito que achar melhor e, depois disso, tá livre pra jogar e construir o quanto quiser!
 
