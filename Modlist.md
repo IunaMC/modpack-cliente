@@ -1,0 +1,117 @@
+### Mods Obrigatórios
+
+Esta é a lista de mods necessários para jogar. Sem eles, o jogo não funcionará.
+
+- [Alex's Delight](https://www.curseforge.com/projects/556448) [1.5] - Adiciona compatibilidade entre Alex's Mobs e Farmer's Delight.
+- [Alex's Mobs](https://modrinth.com/mod/2cMuAZAp) [1.22.9] - Adiciona mais de 85 novos mobs com qualidade estilística.
+- [Amendments](https://modrinth.com/mod/6iTJugQR) [1.20-2.2.1] - Tweaks para blocos vanilla, como caldeirões e escadas.
+- [Aquaculture 2](https://www.curseforge.com/projects/60028) [2.5.5] - Expande o sistema de pesca com novos peixes e ferramentas.
+- [Aquaculture Delight](https://www.curseforge.com/projects/961988) [1.1.1] - Integra Aquaculture 2 com Farmer's Delight para pratos.
+- [Artifacts](https://modrinth.com/mod/P0Mu4wcQ) [9.5.16] - Adiciona itens de tesouro não craftáveis para exploração.
+- [Better Combat](https://modrinth.com/mod/5sy6g3kz) [1.8.6+1.20.1] - Sistema de combate melee inspirado em Minecraft Dungeons.
+- [Brazilian Delight](https://modrinth.com/mod/Bgz35D5U) [2.0.3] - Addon para Farmer's Delight com alimentos brasileiros.
+- [Camera Mod](https://modrinth.com/mod/oiuNWinn) [1.20.1-1.0.20] - Adiciona câmeras funcionais para tirar fotos.
+- [Carry On](https://modrinth.com/mod/joEfVgkn) [2.1.2.7] - Permite carregar blocos e mobs com as mãos.
+- [CarryOnExtend](https://modrinth.com/mod/JbqjOoQj) [1.4.2] - Extensão para Carry On, permitindo jogar entidades carregadas.
+- [Cataclysm: Spellbooks](https://modrinth.com/mod/3FEg0A8D) [1.2.2-1.20.1] - Addon para Iron's Spells com feitiços de Cataclysm.
+- [Chipped](https://modrinth.com/mod/BAscRYKm) [3.0.7] - Adiciona mais de 11.000 variantes de blocos para construção.
+- [Comforts](https://modrinth.com/mod/SaCpeal4) [6.4.0+1.20.1] - Adiciona sacos de dormir e redes portáteis.
+- [Corpse](https://www.curseforge.com/projects/316582) [1.20.1-1.0.23] - Deixa um cadáver com itens ao morrer.
+- [Cosmetic Armor x Corpse Compat](https://www.curseforge.com/projects/1208436) [1.0.0] - Compatibilidade entre Cosmetic Armor e Corpse.
+- [CosmeticArmorReworked](https://www.curseforge.com/projects/237307) [1.20.1-v1a] - Permite usar duas armaduras: uma funcional, outra cosmética.
+- [Create](https://modrinth.com/mod/LNytGWDc) [6.0.6] - Tecnologia estética para automação e construção.
+- [CreativeCore](https://modrinth.com/mod/OsZiaDHq) [2.12.32] - Biblioteca para mods de CreativeMD.
+- [Creeper Overhaul](https://modrinth.com/mod/MI1LWe93) [3.0.2] - Reformula creepers vanilla com variantes.
+- [Cupboard utilities](https://www.curseforge.com/projects/326652) [1.20.1-2.7] - Framework e utilitários para mods de Minecraft.
+- [Disenchanting](https://www.curseforge.com/projects/358578) [2.2.3] - Remove encantamentos de itens para livros.
+- [Dynamic FPS](https://modrinth.com/mod/LQ3K71Q1) [3.9.5] - Reduz uso de recursos quando Minecraft está em segundo plano.
+- [Easy Anvils](https://modrinth.com/mod/OZBR5JT5) [8.0.2] - Melhora bigornas, mantendo itens e permitindo renomear tags.
+- [Elevator Mod](https://modrinth.com/mod/hi2dSXTu) [1.20.1-1.9.1-forge] - Adiciona elevadores para teleporte vertical.
+- [Embeddium](https://modrinth.com/mod/sk9rgfiA) [0.3.31+mc1.20.1] - Mod de performance para clientes NeoForge.
+- [Embeddium Extra](https://modrinth.com/mod/oY2B1pjg) [0.5.4.4+mc1.20.1-build.131] - Addon para Embeddium com mais opções de OptiFine.
+- [Emotecraft](https://modrinth.com/mod/pZ2wrerK) [2.2.7-b.build.50] - Adiciona emotes animados para jogadores.
+- [Enderman Overhaul](https://modrinth.com/mod/Lq6ojcWv) [1.0.4] - Reformula endermen com variantes por bioma.
+- [EntityCulling](https://modrinth.com/mod/NNAgCjsB) [1.8.2] - Otimiza renderizando apenas entidades visíveis.
+- [Explorer's Compass](https://modrinth.com/mod/RV1qfVQ8) [1.20.1-1.3.3-forge] - Localiza estruturas em qualquer lugar do mundo.
+- [FallingTree](https://www.curseforge.com/projects/349559) [4.3.4] - Permite derrubar árvores inteiras cortando um log.
+- [Farmer's Delight](https://modrinth.com/mod/R2OftAxM) [1.20.1-1.2.9] - Expande agricultura e culinária com novas ferramentas.
+- [Farmer's Respite](https://www.curseforge.com/projects/551453) [1.20.1-2.1] - Addon para Farmer's Delight com chás e café.
+- [Ferrite Core](https://modrinth.com/mod/uXXizFIs) [6.0.1] - Otimiza uso de memória do Minecraft.
+- [Flan](https://modrinth.com/mod/Si383TIH) [1.20.1-1.11.15] - Permite criar claims no mundo para proteção.
+- [Forbidden & Arcanus](https://modrinth.com/mod/MdlnLS7Q) [1.20.1-2.2.6] - Adiciona conteúdo mágico e de construção.
+- [ImmediatelyFast](https://modrinth.com/mod/5ZwdcRci) [1.5.2+1.20.4] - Acelera renderização de modo imediato.
+- [Integrated Dungeons and Structures](https://www.curseforge.com/projects/605375) [1.12.0+1.20.1] - Adiciona masmorras e estruturas integradas.
+- [Iron Chests](https://modrinth.com/mod/P3iIrPH3) [1.20.1-14.4.4] - Baús de metais com capacidades variadas.
+- [Iron Furnaces](https://modrinth.com/mod/yPlaLxD1) [4.1.6] - Fornos de metais com velocidades diferentes.
+- [Iron's Spells 'n Spellbooks](https://www.curseforge.com/projects/855414) [1.20.1-3.4.0.11] - Sistema de magia com feitiços e grimórios.
+- [Item Filters](https://www.curseforge.com/projects/309674) [2001.1.0-build.59] - Biblioteca para filtros de itens em mods.
+- [JourneyMap Integration](https://modrinth.com/mod/M1ZKbfkJ) [1.20.1-0.14-48] - Integra mods com JourneyMap.
+- [Journeymap](https://www.curseforge.com/projects/32274) [5.10.3] - Mapeamento em tempo real no jogo ou navegador.
+- [Just Enough Items](https://modrinth.com/mod/u6dRKJwZ) [15.20.0.113] - Visualiza itens e receitas no jogo.
+- [Lootr](https://modrinth.com/mod/EltpO5cN) [0.7.35.92] - Baús instanciados por jogador para loot único.
+- [MOA DECOR: COOKERY](https://www.curseforge.com/projects/701502) [1.20.1] - Itens decorativos de cozinha.
+- [MOA DECOR: LIGHTS](https://www.curseforge.com/projects/892530) [1.20.1] - Iluminações decorativas variadas.
+- [MOA: ELECTRONICS](https://www.curseforge.com/projects/1012624) [1.20.1.] - Eletrônicos decorativos como TVs e consoles.
+- [Macaw's Bridges](https://modrinth.com/mod/GURcjz8O) [3.1.0] - Várias pontes para construção.
+- [Mining Master](https://modrinth.com/mod/Xu8V0UlK) [4.1.3] - Gemas encantadoras para ferramentas e armaduras.
+- [ModernFix](https://modrinth.com/mod/nmDcB62a) [5.24.4+mc1.20.1] - Correções e otimizações de performance.
+- [MrCrayfish's Furniture Mod](https://www.curseforge.com/projects/55438) [7.0.0-pre36] - Móveis funcionais e decorativos.
+- [MrCrayfish's Furniture Mod: Refurbished](https://www.curseforge.com/projects/897116) [1.0.14] - Versão reformulada com novos modelos.
+- [Nature's Compass](https://modrinth.com/mod/fPetb5Kh) [1.20.1-1.11.2-forge] - Localiza biomas em qualquer lugar.
+- [No Chat Reports](https://modrinth.com/mod/qQyHxfxd) [1.20.1-v2.2.2] - Remove assinaturas de chat para privacidade.
+- [Oculus](https://modrinth.com/mod/GchcoXML) [1.8.0] - Fork de Iris para shaders no Forge.
+- [Paraglider](https://modrinth.com/mod/esqWA0aQ) [20.1.3] - Parapente inspirado em Breath of the Wild.
+- [PlayerRevive](https://modrinth.com/mod/ABIMzABM) [2.0.31] - Revive jogadores em 60s após morte.
+- [Quark](https://modrinth.com/mod/qnQsVE2z) [4.0-462] - Coleção de melhorias vanilla+.
+- [Savage & Ravage](https://modrinth.com/mod/KxOh9voD) [6.0.0] - Melhora raids com novos inimigos.
+- [Shield Expansion](https://modrinth.com/mod/sjxWxSao) [1.2.2] - Escudos com tiers e parry.
+- [Simple Voice Chat](https://www.curseforge.com/projects/416089) [1.20.1-2.6.4] - Chat de voz por proximidade.
+- [Sodium Dynamic Lights](https://modrinth.com/mod/PxQSWIcD) [1.0.9] - Luzes dinâmicas para Sodium.
+- [Sodium Options API](https://modrinth.com/mod/Es5v4eyq) [1.0.10] - API para opções do Sodium.
+- [Sophisticated Backpacks](https://www.curseforge.com/projects/422301) [3.24.6.1366] - Mochilas upgradáveis e customizáveis.
+- [Sophisticated Core](https://www.curseforge.com/projects/618298) [1.2.93.1164] - Biblioteca para mods Sophisticated.
+- [Sophisticated Storage](https://www.curseforge.com/projects/619320) [1.4.7.1307] - Armazenamento upgradável e customizável.
+- [Spooky Paintings 1.20.1](https://modrinth.com/mod/zO2AAKf6) [1.0.0] - Pinturas com tema spooky.
+- [Storage Drawers](https://www.curseforge.com/projects/223852) [12.14.3] - Armazenamento compacto para itens.
+- [Supplementaries](https://modrinth.com/mod/fFEIiSDQ) [1.20-3.1.39] - Adições vanilla+ como jarros e sinaleiros.
+- [The Twilight Forest](https://www.curseforge.com/projects/227639) [4.3.2508] - Dimensão com aventuras e bosses.
+- [Transmog](https://modrinth.com/mod/Th33t82F) [1.3.0+1.20] - Altera aparência de itens sem mudar função.
+- [Valhelsia Core](https://modrinth.com/mod/HsdNFinx) [1.1.2] - API para mods Valhelsia.
+- [Veggies Delight](https://modrinth.com/mod/emQ94xri) [1.8.3] - Addon para Farmer's Delight com vegetais.
+- [Visual Workbench](https://modrinth.com/mod/kfqD1JRw) [8.0.1] - Itens ficam visíveis na bancada de trabalho.
+- [Waystones](https://www.curseforge.com/projects/245755) [14.1.17] - Pedras para teleporte rápido.
+- [WebDisplays](https://modrinth.com/mod/bRa1UAVZ) [2.0.1-1.20.1] - Telas para navegar na web no jogo.
+- [When Dungeons Arise](https://modrinth.com/mod/8DfbfASn) [2.1.58-1.20.x] - Gera masmorras roguelike grandes.
+- [Cataclysm](https://modrinth.com/mod/46KJle7n) [3.16] - Adiciona masmorras e bosses difíceis.
+
+### Mods Opcionais
+
+Estes mods são para melhorar a estética, jogabilidade ou pequenas mecânicas do jogo. Eles não são obrigatórios para logar no servidor.
+
+- [3d-Skin-Layers](https://modrinth.com/mod/zV5r3pPn) [1.9.0] - Renderiza a camada extra da skin em 3D.
+- [AmbientSounds](https://modrinth.com/mod/fM515JnW) [6.1.11] - Adiciona sons ambientes ricos.
+- [AppleSkin](https://modrinth.com/mod/EsAfCjCV) [2.5.1+mc1.20.1] - Mostra info de fome e saturação.
+- [Better Advancements](https://modrinth.com/mod/Q2OqKxDG) [0.4.2.25] - Melhora UI de avanços.
+- [Better Ping Display](https://modrinth.com/mod/ZvaHbwoZ) [1.1] - Mostra ping numérico na lista de jogadores.
+- [Better Recipe Book](https://modrinth.com/mod/vWIaVOTE) [1.10.0-rc5+1.20.0-1] - Melhora o livro de receitas.
+- [Better Third Person](https://modrinth.com/mod/G1s2WpNo) [1.9.0] - Melhora visão em terceira pessoa.
+- [Chat Heads](https://modrinth.com/mod/Wb5oqrBJ) [0.13.21] - Adiciona cabeças de jogadores no chat.
+- [Connectivity Mod](https://www.curseforge.com/projects/470193) [1.20.1-7.1] - Corrige timeouts e erros de pacotes.
+- [Controlling](https://www.curseforge.com/projects/250398) [12.0.2] - Adiciona barra de busca nos controles.
+- [Durability Tooltip](https://modrinth.com/mod/smUP7V3r) [1.1.6] - Mostra durabilidade em tooltips.
+- [EnchantmentDescriptions](https://modrinth.com/mod/UVtY3ZAC) [17.1.19] - Descrições de encantamentos em tooltips.
+- [Entity Model Features](https://modrinth.com/mod/4I1XuqiY) [3.0.1] - Suporte para modelos custom de entidades.
+- [Entity Texture Features](https://modrinth.com/mod/BVzZfTc1) [7.0.2] - Texturas emissivas e randômicas para entidades.
+- [Fallingleaves](https://modrinth.com/mod/2JAUNCL4) [2.1.2] - Folhas caindo de árvores.
+- [Highlighter](https://modrinth.com/mod/cVNW5lr6) [1.1.9] - Destaca itens por encantamentos.
+- [Inventory HUD+](https://modrinth.com/mod/Kp2uclYl) [3.4.26] - Mostra inventário e efeitos na HUD.
+- [InvMove](https://modrinth.com/mod/REfW2AEX) [0.9.0] - Move enquanto em inventários.
+- [Jade Addons](https://modrinth.com/mod/xuDOzCLy) [5.5.0+forge] - Suporte extra para Jade.
+- [Jade](https://modrinth.com/mod/nvQzSEkH) [11.13.2+forge] - HUD de informação sobre blocos.
+- [Just Zoom](https://modrinth.com/mod/iAiqcykM) [2.1.1] - Zoom com tecla e roda do mouse.
+- [Mouse Tweaks](https://modrinth.com/mod/aC3cM3Vq) [2.25.1] - Tweaks para gerenciamento de inventário.
+- [Searchables](https://www.curseforge.com/projects/858542) [1.0.3] - Biblioteca para busca e filtros.
+- [ShulkerBoxTooltip](https://www.curseforge.com/projects/315811) [4.0.4+1.20.1] - Mostra conteúdo de shulker boxes em tooltips.
+- [Sound Physics Remastered](https://modrinth.com/mod/qyVF9oeo) [1.20.1-1.5.0] - Física realista de som com reverberação.
+- [WaveyCapes](https://modrinth.com/mod/kYuIpRLv) [1.6.2] - Animações realistas para capas.
+- [What Are They Up To](https://modrinth.com/mod/AtB5mHky) [1.20.1-1.2.3] - Mostra ações de jogadores como digitar ou inventário.
