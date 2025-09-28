@@ -45,9 +45,8 @@ Esta é a lista de mods necessários para jogar. Sem eles, o jogo não funcionar
 - [Iron Furnaces](https://modrinth.com/mod/yPlaLxD1) [4.1.6] - Fornos de metais com velocidades diferentes.
 - [Iron's Spells 'n Spellbooks](https://www.curseforge.com/projects/855414) [1.20.1-3.4.0.11] - Sistema de magia com feitiços e grimórios.
 - [Item Filters](https://www.curseforge.com/projects/309674) [2001.1.0-build.59] - Biblioteca para filtros de itens em mods.
-- [JourneyMap Integration](https://modrinth.com/mod/M1ZKbfkJ) [1.20.1-0.14-48] - Integra mods com JourneyMap.
 - [Journeymap](https://www.curseforge.com/projects/32274) [5.10.3] - Mapeamento em tempo real no jogo ou navegador.
-- [Just Enough Items](https://modrinth.com/mod/u6dRKJwZ) [15.20.0.113] - Visualiza itens e receitas no jogo.
+- [Just Enough Items](https://modrinth.com/mod/zzpNSbJZ) [15.20.0.116] - Visualiza itens e receitas no jogo.
 - [Lootr](https://modrinth.com/mod/EltpO5cN) [0.7.35.92] - Baús instanciados por jogador para loot único.
 - [Macaw's Bridges](https://modrinth.com/mod/GURcjz8O) [3.1.0] - Várias pontes para construção.
 - [Mining Master](https://modrinth.com/mod/Xu8V0UlK) [4.1.3] - Gemas encantadoras para ferramentas e armaduras.
@@ -69,7 +68,7 @@ Esta é a lista de mods necessários para jogar. Sem eles, o jogo não funcionar
 - [Sodium Dynamic Lights](https://modrinth.com/mod/PxQSWIcD) [1.0.9] - Luzes dinâmicas para Sodium.
 - [Sodium Options API](https://modrinth.com/mod/Es5v4eyq) [1.0.10] - API para opções do Sodium.
 - [Sophisticated Backpacks](https://www.curseforge.com/projects/422301) [3.24.6.1366] - Mochilas upgradáveis e customizáveis.
-- [Sophisticated Core](https://www.curseforge.com/projects/618298) [1.2.93.1164] - Biblioteca para mods Sophisticated.
+- [Sophisticated Core](https://www.curseforge.com/projects/618298) [1.2.96.1182] - Biblioteca para mods Sophisticated.
 - [Sophisticated Storage](https://www.curseforge.com/projects/619320) [1.4.7.1307] - Armazenamento upgradável e customizável.
 - [Spooky Paintings 1.20.1](https://modrinth.com/mod/zO2AAKf6) [1.0.0] - Pinturas com tema spooky.
 - [Storage Drawers](https://www.curseforge.com/projects/223852) [12.14.3] - Armazenamento compacto para itens.
