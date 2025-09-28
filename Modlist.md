@@ -1,5 +1,4 @@
 ### Mods Obrigatórios
-
 Esta é a lista de mods necessários para jogar. Sem eles, o jogo não funcionará.
 
 - [Alex's Delight](https://www.curseforge.com/projects/556448) [1.5] - Adiciona compatibilidade entre Alex's Mobs e Farmer's Delight.
@@ -85,7 +84,6 @@ Esta é a lista de mods necessários para jogar. Sem eles, o jogo não funcionar
 - [When Dungeons Arise](https://modrinth.com/mod/8DfbfASn) [2.1.58-1.20.x] - Gera masmorras roguelike grandes.
 
 ### Mods Opcionais
-
 Estes mods são para melhorar a estética, jogabilidade ou pequenas mecânicas do jogo. Eles não são obrigatórios para logar no servidor.
 
 - [3d-Skin-Layers](https://modrinth.com/mod/zV5r3pPn) [1.9.0] - Renderiza a camada extra da skin em 3D.
@@ -96,7 +94,7 @@ Estes mods são para melhorar a estética, jogabilidade ou pequenas mecânicas d
 - [Better Recipe Book](https://modrinth.com/mod/vWIaVOTE) [1.10.0-rc5+1.20.0-1] - Melhora o livro de receitas.
 - [Better Third Person](https://modrinth.com/mod/G1s2WpNo) [1.9.0] - Melhora visão em terceira pessoa.
 - [Chat Heads](https://modrinth.com/mod/Wb5oqrBJ) [0.13.21] - Adiciona cabeças de jogadores no chat.
-- [Connectivity Mod](https://www.curseforge.com/projects/470193) [1.20.1-7.1] - Corrige timeouts e erros de pacotes.
+- [Connectivity Mod](https://www.curseforge.com/projects/470193) [1.20.1-7.2] - Corrige timeouts e erros de pacotes.
 - [Controlling](https://www.curseforge.com/projects/250398) [12.0.2] - Adiciona barra de busca nos controles.
 - [Durability Tooltip](https://modrinth.com/mod/smUP7V3r) [1.1.6] - Mostra durabilidade em tooltips.
 - [EnchantmentDescriptions](https://modrinth.com/mod/UVtY3ZAC) [17.1.19] - Descrições de encantamentos em tooltips.
@@ -108,10 +106,10 @@ Estes mods são para melhorar a estética, jogabilidade ou pequenas mecânicas d
 - [InvMove](https://modrinth.com/mod/REfW2AEX) [0.9.0] - Move enquanto em inventários.
 - [Jade Addons](https://modrinth.com/mod/xuDOzCLy) [5.5.0+forge] - Suporte extra para Jade.
 - [Jade](https://modrinth.com/mod/nvQzSEkH) [11.13.2+forge] - HUD de informação sobre blocos.
-- [Just Zoom](https://modrinth.com/mod/iAiqcykM) [2.1.1] - Zoom com tecla e roda do mouse.
 - [Mouse Tweaks](https://modrinth.com/mod/aC3cM3Vq) [2.25.1] - Tweaks para gerenciamento de inventário.
 - [Searchables](https://www.curseforge.com/projects/858542) [1.0.3] - Biblioteca para busca e filtros.
 - [ShulkerBoxTooltip](https://www.curseforge.com/projects/315811) [4.0.4+1.20.1] - Mostra conteúdo de shulker boxes em tooltips.
-- [Sound Physics Remastered](https://modrinth.com/mod/qyVF9oeo) [1.20.1-1.5.0] - Física realista de som com reverberação.
+- [Sound Physics Remastered](https://modrinth.com/mod/qyVF9oeo) [1.20.1-1.5.1] - Física realista de som com reverberação.
 - [WaveyCapes](https://modrinth.com/mod/kYuIpRLv) [1.6.2] - Animações realistas para capas.
 - [What Are They Up To](https://modrinth.com/mod/AtB5mHky) [1.20.1-1.2.3] - Mostra ações de jogadores como digitar ou inventário.
+- [Zume](https://modrinth.com/mod/o6qsdrrQ) [1.1.4] - Adiciona zoom ajustável com tecla ou roda do mouse.
