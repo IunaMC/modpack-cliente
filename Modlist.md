@@ -14,6 +14,7 @@ Esta é a lista de mods necessários para jogar. Sem eles, o jogo não funcionar
 - [Carry On](https://modrinth.com/mod/joEfVgkn) [2.1.2.7] - Permite carregar blocos e mobs com as mãos.
 - [CarryOnExtend](https://modrinth.com/mod/JbqjOoQj) [1.4.2] - Extensão para Carry On, permitindo jogar entidades carregadas.
 - [Cataclysm: Spellbooks](https://modrinth.com/mod/3FEg0A8D) [1.2.2-1.20.1] - Addon para Iron's Spells com feitiços de Cataclysm.
+- [Cataclysm](https://modrinth.com/mod/46KJle7n) [3.16] - Adiciona masmorras e bosses difíceis.
 - [Chipped](https://modrinth.com/mod/BAscRYKm) [3.0.7] - Adiciona mais de 11.000 variantes de blocos para construção.
 - [Comforts](https://modrinth.com/mod/SaCpeal4) [6.4.0+1.20.1] - Adiciona sacos de dormir e redes portáteis.
 - [Corpse](https://www.curseforge.com/projects/316582) [1.20.1-1.0.23] - Deixa um cadáver com itens ao morrer.
@@ -27,8 +28,8 @@ Esta é a lista de mods necessários para jogar. Sem eles, o jogo não funcionar
 - [Dynamic FPS](https://modrinth.com/mod/LQ3K71Q1) [3.9.5] - Reduz uso de recursos quando Minecraft está em segundo plano.
 - [Easy Anvils](https://modrinth.com/mod/OZBR5JT5) [8.0.2] - Melhora bigornas, mantendo itens e permitindo renomear tags.
 - [Elevator Mod](https://modrinth.com/mod/hi2dSXTu) [1.20.1-1.9.1-forge] - Adiciona elevadores para teleporte vertical.
-- [Embeddium](https://modrinth.com/mod/sk9rgfiA) [0.3.31+mc1.20.1] - Mod de performance para clientes NeoForge.
 - [Embeddium Extra](https://modrinth.com/mod/oY2B1pjg) [0.5.4.4+mc1.20.1-build.131] - Addon para Embeddium com mais opções de OptiFine.
+- [Embeddium](https://modrinth.com/mod/sk9rgfiA) [0.3.31+mc1.20.1] - Mod de performance para clientes NeoForge.
 - [Emotecraft](https://modrinth.com/mod/pZ2wrerK) [2.2.7-b.build.50] - Adiciona emotes animados para jogadores.
 - [Enderman Overhaul](https://modrinth.com/mod/Lq6ojcWv) [1.0.4] - Reformula endermen com variantes por bioma.
 - [EntityCulling](https://modrinth.com/mod/NNAgCjsB) [1.8.2] - Otimiza renderizando apenas entidades visíveis.
@@ -49,14 +50,14 @@ Esta é a lista de mods necessários para jogar. Sem eles, o jogo não funcionar
 - [Journeymap](https://www.curseforge.com/projects/32274) [5.10.3] - Mapeamento em tempo real no jogo ou navegador.
 - [Just Enough Items](https://modrinth.com/mod/u6dRKJwZ) [15.20.0.113] - Visualiza itens e receitas no jogo.
 - [Lootr](https://modrinth.com/mod/EltpO5cN) [0.7.35.92] - Baús instanciados por jogador para loot único.
+- [Macaw's Bridges](https://modrinth.com/mod/GURcjz8O) [3.1.0] - Várias pontes para construção.
+- [Mining Master](https://modrinth.com/mod/Xu8V0UlK) [4.1.3] - Gemas encantadoras para ferramentas e armaduras.
 - [MOA DECOR: COOKERY](https://www.curseforge.com/projects/701502) [1.20.1] - Itens decorativos de cozinha.
 - [MOA DECOR: LIGHTS](https://www.curseforge.com/projects/892530) [1.20.1] - Iluminações decorativas variadas.
 - [MOA: ELECTRONICS](https://www.curseforge.com/projects/1012624) [1.20.1.] - Eletrônicos decorativos como TVs e consoles.
-- [Macaw's Bridges](https://modrinth.com/mod/GURcjz8O) [3.1.0] - Várias pontes para construção.
-- [Mining Master](https://modrinth.com/mod/Xu8V0UlK) [4.1.3] - Gemas encantadoras para ferramentas e armaduras.
 - [ModernFix](https://modrinth.com/mod/nmDcB62a) [5.24.4+mc1.20.1] - Correções e otimizações de performance.
-- [MrCrayfish's Furniture Mod](https://www.curseforge.com/projects/55438) [7.0.0-pre36] - Móveis funcionais e decorativos.
 - [MrCrayfish's Furniture Mod: Refurbished](https://www.curseforge.com/projects/897116) [1.0.14] - Versão reformulada com novos modelos.
+- [MrCrayfish's Furniture Mod](https://www.curseforge.com/projects/55438) [7.0.0-pre36] - Móveis funcionais e decorativos.
 - [Nature's Compass](https://modrinth.com/mod/fPetb5Kh) [1.20.1-1.11.2-forge] - Localiza biomas em qualquer lugar.
 - [No Chat Reports](https://modrinth.com/mod/qQyHxfxd) [1.20.1-v2.2.2] - Remove assinaturas de chat para privacidade.
 - [Oculus](https://modrinth.com/mod/GchcoXML) [1.8.0] - Fork de Iris para shaders no Forge.
@@ -82,7 +83,6 @@ Esta é a lista de mods necessários para jogar. Sem eles, o jogo não funcionar
 - [Waystones](https://www.curseforge.com/projects/245755) [14.1.17] - Pedras para teleporte rápido.
 - [WebDisplays](https://modrinth.com/mod/bRa1UAVZ) [2.0.1-1.20.1] - Telas para navegar na web no jogo.
 - [When Dungeons Arise](https://modrinth.com/mod/8DfbfASn) [2.1.58-1.20.x] - Gera masmorras roguelike grandes.
-- [Cataclysm](https://modrinth.com/mod/46KJle7n) [3.16] - Adiciona masmorras e bosses difíceis.
 
 ### Mods Opcionais
 
