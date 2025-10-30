@@ -1,14 +1,22 @@
-# Changelog — v1.1.0-beta.01
+# Changelog — v1.1.0-beta.02
 
 ## Added
-- Adds the [Lightman's Currency](https://modrinth.com/mod/lightmans-currency) mod for the server's economy system
-- Adds the [Polymorph](https://modrinth.com/mod/polymorph) mod to fix recipe conflicts caused by multiple mods adding the same recipe
-- Adds [MixinTrace Reforged](https://modrinth.com/mod/mixintrace-reforged) as the proper Forge port of MixinTrace
+
+**Community-suggested mods**
+- Add [Create: The Factory Must Grow](https://modrinth.com/mod/create-tfmg) mod
+- Add [Pipez](https://modrinth.com/mod/pipez) mod
+- Add [Alex's Caves](https://modrinth.com/mod/alexs-caves) mod
+- Add [Create: New Age](https://modrinth.com/mod/create-new-age) mod
+- Add [Born in Chaos](https://www.curseforge.com/minecraft/mc-mods/born-in-chaos) mod
+- Add [Applied Energistics 2](https://modrinth.com/mod/ae2) mod
+- Add [Occultism](https://modrinth.com/mod/occultism) mod
+- Add [Chisels & Bits - For Forge](https://modrinth.com/mod/bits-and-chisels) mod
+- Add [Create Crafts & Additions](https://modrinth.com/mod/createaddition) mod
+- Add [Dark Doppelganger](https://modrinth.com/mod/dark-doppelganger) mod
+- Add [Mob Grinding Utils](https://modrinth.com/mod/jdk-mgu) mod
+- Add [Animal Feeding Trough](https://modrinth.com/mod/animal_feeding_trough) mod
+- Add [Create: Applied Kinetics](https://modrinth.com/mod/create-applied-kinetics) mod
+- Add [T.O Magic 'n Extras - Iron's Spells Addon](https://www.curseforge.com/minecraft/mc-mods/to-tweaks-irons-spells) mod
 
 ## Removed
-- Removes [MixinTrace](https://modrinth.com/mod/mixintrace) (Fabric) since it's now handled through the Forge compatibility layer
-- Removes [Better Recipe Book](https://modrinth.com/mod/better-recipe-book) due to bugs with [Tom's Storage](https://modrinth.com/mod/toms-storage)
-
-## MISC
-- Adds the changelog file MUDANCAS.md to the `.zip`
-- Adds a version note file VERSAO
+- Remove [Transmog](https://modrinth.com/mod/transmog) mod
