@@ -1,34 +1,39 @@
-# Changelog — v2.0.0-beta.03, NeoForge 1.21.1 Mod Updates and Cleanup
+# Changelog — v2.0.0-beta.04, NeoForge 1.21.1 Mod Updates and Modpack Cleanup
 
 ## Add
-- Add [Despawn Tweaks](https://github.com/txnimc/DespawnTweaks/) to improve entity despawn behavior management
-- Add [TxniLib](https://github.com/txnimc/TxniLib/) as a required dependency for [Despawn Tweaks](https://github.com/txnimc/DespawnTweaks/)
-- Add [Hazen N Stuff](https://modrinth.com/mod/I94FeWYD)`1.4.0.14` and [HazentouveLib](https://modrinth.com/mod/nZaIUw7C) `1.0.9`
-- Add [Monsters & Spellbooks](https://www.curseforge.com/projects/1428928) `0.0.16.3`
-- Add [Caelus API](https://modrinth.com/mod/40FYwb4z) as a required dependency
-- Add [Cosmetic Armor x Corpse Compat](https://modrinth.com/mod/VrbUxhCI) back as a server-client side compatibility addon
+- Add [Custom Player Animations](https://modrinth.com/mod/EhthJpjM) `5.9.10` to improve player animation customization and visual movement improvements [Modrinth](https://modrinth.com/mod/cpa/version/5.9.10-neoforge%2B26.1.2?utm_source=chatgpt.com)
+- Add [Building Gadgets 2](https://www.curseforge.com/projects/298187) `1.3.9` to provide additional building and construction utilities
+- Add [Petting - Tame any mob!](https://modrinth.com/mod/) `4.2.2` to allow players to tame and interact with additional mobs
 
 ## Removed
-- Remove [Wind's Spellbooks : Iron's Spells 'n Spellbooks Addon](https://modrinth.com/mod/nTApwmMc)
-- Remove [Inventory Tweaks ReFoxed](https://modrinth.com/mod/uqnMI1kq) from optional mods
+- Remove [InvMove] due to no longer being included in the modpack
+- Remove [Tropicraft] due to server performance concerns caused by adding another world dimension
 
 ## Updated
-- Update [Just Enough Items](https://modrinth.com/mod/u6dRKJwZ) distribution by moving it from optional dependencies to required mods
-- Update the mod list to include newly added mods and dependencies
-- Update the version file for the `v2.0.0-beta.03` release
+- Update [Player Animation Library](https://modrinth.com/mod/ha1mEyJS) migration to the NeoForge version to maintain compatibility with [Custom Player Animations](https://modrinth.com/mod/EhthJpjM)
+- Update the mod list to reflect newly added and removed mods
+- Update the version file for the `v2.0.0-beta.04` release
 
 ## MISC
-- Cleanup modpack dependencies by reorganizing required and optional components
-- Adjust mod distribution structure to match current server and client requirements
+- Cleanup duplicated dependencies by keeping shared libraries only in the required mods section
+- Remove duplicate optional dependency entries already provided by the mandatory modpack installation
+- Improve modpack organization by reducing redundant dependency declarations
 
 **Updated systems**
 
-- Gameplay and mechanics additions:
-  - Despawn management improvements with [Despawn Tweaks](https://github.com/txnimc/DespawnTweaks/)
-  - New content integration with [Monsters & Spellbooks](https://www.curseforge.com/projects/1428928)
-  - New gameplay components provided by [Hazen N Stuff](https://modrinth.com/mod/I94FeWYD)
+- Gameplay and visual improvements:
+  - New player animation features through [Custom Player Animations](https://modrinth.com/mod/EhthJpjM)
+  - New construction utilities with [Building Gadgets 2](https://www.curseforge.com/projects/298187)
+  - Additional mob interaction features with [Petting - Tame any mob!](https://modrinth.com/mod/)
 
-- Dependency and compatibility improvements:
-  - [Caelus API](https://modrinth.com/mod/40FYwb4z)
-  - [TxniLib](https://github.com/txnimc/TxniLib/)
-  - [HazentouveLib](https://modrinth.com/mod/nZaIUw7C)
+- Compatibility and dependency improvements:
+  - Migrated [Player Animation Library](https://modrinth.com/mod/ha1mEyJS) to the NeoForge ecosystem
+  - Removed duplicated dependencies:
+    - [Architectury](https://modrinth.com/mod/lhGA9TYQ)
+    - [Cloth Config v15 API](https://modrinth.com/mod/9s6osm5g)
+    - [CreativeCore](https://modrinth.com/mod/OsZiaDHq)
+    - [Fzzy Config](https://modrinth.com/mod/hYykXjDp)
+    - [Kotlin for Forge](https://modrinth.com/mod/ordsPcFz)
+    - [MezzConfig](https://modrinth.com/mod/7tEfOcA7)
+    - [Simply Tooltips](https://modrinth.com/mod/6avVoBVB)
+    - [SuperMartijn642's Config Library](https://modrinth.com/mod/LN9BxssP)
